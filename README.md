@@ -12,3 +12,7 @@ Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
 ## Modelagem Lógica
 
 ![Modelo Lógico](logico.png)
+
+## Modalo Físico
+
+O modelo físico se encontra em script.sql
