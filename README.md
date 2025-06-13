@@ -5,4 +5,6 @@ Ricardo Lorente Kauer - DRE: 122100500
 
 Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
 
+## Esquema do Datawarehouse
 
+![Esquema Estrela](esquema.jpg)
