@@ -1,4 +1,4 @@
-# Avaliação 02: Modelagem de Data Warehouse - PARTE 2
+# Avaliação 02: Modelagem de Data Warehouse 
 Guilherme Oliveira Rolim Silva - DRE: 122076696
 
 Ricardo Lorente Kauer - DRE: 122100500
