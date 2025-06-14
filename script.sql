@@ -1,4 +1,10 @@
 -- Tabela: locadora
+
+-- Guilherme Oliveira Rolim Silva - DRE: 122076696
+
+-- Ricardo Lorente Kauer - DRE: 122100500
+
+-- Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
 CREATE TABLE locadora (
     id_locadora          SERIAL PRIMARY KEY,
     nome_locadora        VARCHAR(255) NOT NULL UNIQUE,
