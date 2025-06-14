@@ -1,13 +1,8 @@
--- Passo 1: Limpar o ambiente específico (segurança para re-execução)
 DROP SCHEMA IF EXISTS jpsales CASCADE;
 
--- Passo 2: Criar o schema novamente
 CREATE SCHEMA jpsales;
 
--- Passo 3: DEFINIR O CONTEXTO DE EXECUÇÃO
--- Todos os comandos abaixo serão executados dentro do schema 'rickauer'
 SET search_path TO jpsales;
-
 
 -- Avaliação 02: Modelagem de Data Warehouse
 -- Parte 1: Script DDL do Sistema Transacional
