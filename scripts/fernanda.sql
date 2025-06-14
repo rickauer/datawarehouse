@@ -1,11 +1,7 @@
-
--- Passo 1: Limpar o ambiente anterior para garantir uma execução limpa
 DROP SCHEMA IF EXISTS fernanda CASCADE;
 
--- Passo 2: Criar o schema para esta fonte de dados
 CREATE SCHEMA fernanda;
 
--- Passo 3: Definir o schema 'alice' como o padrão para os comandos a seguir
 SET search_path TO fernanda;
 
 ----------------------------------------------------------
