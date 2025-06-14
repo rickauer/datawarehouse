@@ -1,3 +1,9 @@
+-- Guilherme Oliveira Rolim Silva - DRE: 122076696
+
+-- Ricardo Lorente Kauer - DRE: 122100500
+
+-- Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
+
 SELECT
     dg.nome_grupo AS grupo_do_veiculo,
     dc.cidade_cliente,
