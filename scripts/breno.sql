@@ -1,13 +1,8 @@
--- Passo 1: Limpar o ambiente específico (segurança para re-execução)
 DROP SCHEMA IF EXISTS breno CASCADE;
 
--- Passo 2: Criar o schema novamente
 CREATE SCHEMA breno;
 
--- Passo 3: DEFINIR O CONTEXTO DE EXECUÇÃO
--- Todos os comandos abaixo serão executados dentro do schema 'rickauer'
 SET search_path TO breno;
-
 
 /*
 Grupo: Breno Valente Manhães - 122038517; João Pedro Moretti Fontes Ferreira - 122081366; Murilo Jorge de Figueiredo - 122079597
