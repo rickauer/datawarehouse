@@ -1,14 +1,14 @@
--- Guilherme Oliveira Rolim Silva - DRE: 122076696
-
--- Ricardo Lorente Kauer - DRE: 122100500
-
--- Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
-
 DROP SCHEMA IF EXISTS rickauer CASCADE;
 
 CREATE SCHEMA rickauer;
 
 SET search_path TO rickauer;
+
+-- Guilherme Oliveira Rolim Silva - DRE: 122076696
+
+-- Ricardo Lorente Kauer - DRE: 122100500
+
+-- Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
 
 CREATE TABLE locadora (
     id_locadora          SERIAL PRIMARY KEY,
