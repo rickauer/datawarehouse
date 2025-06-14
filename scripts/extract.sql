@@ -1,3 +1,9 @@
+-- Guilherme Oliveira Rolim Silva - DRE: 122076696
+
+-- Ricardo Lorente Kauer - DRE: 122100500
+
+-- Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
+
 TRUNCATE TABLE staging.stg_clientes, staging.stg_veiculos, staging.stg_locacoes, staging.stg_patios, staging.stg_cobrancas;
 
 
