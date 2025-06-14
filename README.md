@@ -7,11 +7,11 @@ Vinícius Alcântara Gomes Reis de Souza - DRE: 122060831
 
 ## Modelagem Conceitual
 
-![Modelo Conceitual](conceitual.jpg)
+![Modelo Conceitual](conceitual.pdf)
 
 ## Modelagem Lógica
 
-![Modelo Lógico](logico.png)
+![Modelo Lógico](logico.pdf)
 
 ## Modalo Físico
 
